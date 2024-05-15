@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "paths": {
+        "@Logger": ["./src/logs/Logger.ts"],
+        "@Middlewares": ["./src/middlewares/index.ts"],
+        "@Products": ["./src/resources/Products/index.ts"],
+        "@Users": ["./src/resources/Users/index.ts"],
+      }
+    }
+  }
+  
